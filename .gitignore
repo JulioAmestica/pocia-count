@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.netlify/
+.config/
+.npm-cache/
+*.tsbuildinfo
+.DS_Store
+coverage/
